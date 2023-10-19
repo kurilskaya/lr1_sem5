@@ -17,4 +17,3 @@ public:
 	virtual void print(ostream& out) = 0;
 	virtual ~Carrier() = 0;
 };
-#pragma once
